@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "厂长资源",
-      "name": "厂长",
+      "name": "01绘盒资源",
       "type": 3,
       "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -15,20 +15,8 @@
     },
 
 {
-"key":"达达",
-"name":"达达",
-"type":3,
-"api":"csp_XBPQ",
-"playerType":1,
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":"http://api.zhixiao.me:65508/zs/cn/dd.json"
-},
-
-{
 "key":"耐看",
-"name":"耐看",
+"name":"02绘盒资源",
 "type":3,
 "api":"csp_XBPQ",
 
@@ -38,99 +26,21 @@
 "ext":"http://api.zhixiao.me:65508/zs/cn/nk.json"
 },
 
-    {
-      "key": "新视觉",
-      "name": "视觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://api.zhixiao.me:65508/zs/cn/sj.json"
-    },
-
-
-    {
-      "key": "农民",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.zhixiao.me:65508/zs/cn/nm.json"
-    },
-
-
-    {
-      "key": "dr_荐片",
-      "name": "荐片",
-      "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"
-    },
-
-
-    {
-      "key": "js_企鹅",
-      "name": "腾讯",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qtv.js"
-    },
-    {
-      "key": "js_奇异",
-      "name": "爱奇异",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qzys.js"
-    },
-    {
-      "key": "js_芒果",
-      "name": "芒果",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/baimang.js"
-    },
-    {
-      "key": "js_优酷",
-      "name": "优酷",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/youku.js"
-    },
-    {
-      "key": "js_菜狗",
-      "name": "搜狗视频",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
-    },
+{
+"key":"达达",
+"name":"03绘盒资源",
+"type":3,
+"api":"csp_XBPQ",
+"playerType":1,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":"http://api.zhixiao.me:65508/zs/cn/dd.json"
+},
 
     {
       "key": "绘盒",
-      "name": "绘盒",
+      "name": "04绘盒资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
